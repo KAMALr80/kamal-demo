@@ -1,3 +1,4 @@
 # kamal-demo
 this is my first repository
-Author - Kamalrathod
+<br>
+<h2>Author - Kamalrathod </h2>
